@@ -3,6 +3,7 @@ Hi, my name is Dionatan Leão,
 Professional in the technology sector, with skills in Java, Spring Boot (mvc, security, data, jwt, lombok), Unit Testing (Junit, Mokito), Apache Camel, Microsoft Azure, Red Hat OpenShift, SonarQube, Fortify, Web Services (RESTful services, Json, Soap), Documentation APIs (Swagger), Front-end Development Knowledge (Angular and React) Relational Database (MySQL, SQL Server, PostgreSQL), NoSQL Database (MongoDB), Repositories (GitHub, GitLab), Mindset focused on Agile methods.
 <br/>
 <br/>
+[![Github Status](https://github-readme-stats.vercel.app/api?username=DionatanLeao&show_icons=true&title_color=00a6c0&icon_color=00a6c0&text_color=9f9f9f&bg_color=151515)](https://github.com/DionatanLeao/DionatanLeao)
 
 ## Techs
 
