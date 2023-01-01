@@ -4,7 +4,7 @@ Technology industry professional with experience in Java, Kotlin, Spring Boot (w
 <br/>
 <br/>  
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=DionatanLeao&show_icons=true&title_color=00a6c0&icon_color=00a6c0&text_color=9f9f9f&bg_color=151515" height="200" align="center"/>&ensp;&ensp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DionatanLeao&&langs_count=8&layout=compact&text_color=00a6c0&title_color=00a6c0&bg_color=151515&icon_color=00a6c0" alt="DionatanLeao" height="200" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DionatanLeao&show_icons=true&title_color=00a6c0&icon_color=00a6c0&text_color=9f9f9f&bg_color=151515" height="165" align="center"/>&ensp;&ensp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DionatanLeao&&langs_count=8&layout=compact&text_color=00a6c0&title_color=00a6c0&bg_color=151515&icon_color=00a6c0" alt="DionatanLeao" height="165" align="center"/>
 </div>
 <br/>
 <br/>
