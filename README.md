@@ -10,7 +10,7 @@ Technology industry professional with experience in Java, Kotlin, Spring Boot (w
 <h1>Techs</h1>
 <div>
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">&nbsp;
-  <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20angular.svg" style="vertical-align:top; margin:4px">&nbsp;
+  <!--img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/%20angular.svg" style="vertical-align:top; margin:4px">&nbsp;
   <!--img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" style="vertical-align:top; margin:4px"-->
 </div>
 
