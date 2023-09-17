@@ -1,6 +1,6 @@
 <h3>Hi, my name is Dionatan Leão,</h3>
 
-<p align="justify">Technology industry professional with experience in Java, Kotlin, Spring Boot (web, mvc, security, data), Unit Testing (Junit, Mokito), Apache Camel, Apache Kafka, Microsoft Azure, Red Hat OpenShift, SonarQube, Fortify, Web services (RESTful services, Json, Soap), Documentation APIs (Swagger), Relational databases (MySQL, Microsoft SQL Server, PostgreSQL), NoSQL databases (MongoDB), Repositories (GitHub, GitLab), Agile mindset.</p>
+<p align="justify">Profissional do setor de tecnologia, com experiência em Java, Kotlin, Spring Boot (web, core, security, data, test), Testes Unitários (JUnit, Mockito, MokK), Apache Camel, Spring Cloud Gateway, Mensageria (Apache Kafka), Cloud Computing (Microsoft Azure, AWS), Red Hat OpenShift, SonarQube, Fortify, Kubernetes, Docker, Serviços web (Json, Soap), APIs Documentation (Swagger, OpenAPI), Banco de dados relacional(MySQL, Microsoft SQL Server, PostgreSQL), Banco de dados NoSQL(MongoDB), Repositórios(GitHub, GitLab), Mentalidade voltada para métodos ágeis.</p>
 <br/>
 <br/>  
 <div>
@@ -15,7 +15,7 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">&nbsp;
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:4px">&nbsp;
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:4px">&nbsp;
-  <!--img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:4px"-->&nbsp;
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" alt="jetbrains_intellij" style="vertical-align:top; margin:4px">&nbsp;
   <!--img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" style="vertical-align:top; margin:4px"-->&nbsp
   
 </div>
