@@ -1,6 +1,6 @@
 <h3>Hi, my name is Dionatan Leão,</h3>
 
-<p align="justify">Profissional do setor de tecnologia, com experiência em Java, Kotlin, Spring Boot (web, core, security, data, test), Testes Unitários (JUnit, Mockito, MokK), Apache Camel, Spring Cloud Gateway, Mensageria (Apache Kafka), Cloud Computing (Microsoft Azure, AWS), Red Hat OpenShift, SonarQube, Fortify, Kubernetes, Docker, Serviços web (Json, Soap), APIs Documentation (Swagger, OpenAPI), Banco de dados relacional(MySQL, Microsoft SQL Server, PostgreSQL), Banco de dados NoSQL(MongoDB), Repositórios(GitHub, GitLab), Mentalidade voltada para métodos ágeis.</p>
+<p align="justify">Technology industry professional, with experience in Java, Kotlin, Spring Boot (web, core, security, data, test), Unit Testing (JUnit, Mockito, MokK), Apache Camel, Spring Cloud Gateway, Mensageria (Apache Kafka), Cloud Computing (Microsoft Azure, AWS)Red Hat OpenShift, SonarQube, Fortify, Kubernetes, Docker, Web Services (Json, Soap), APIs Documentation (Swagger, OpenAPI), Relational Database(MySQL, Microsoft SQL Server, PostgreSQL), NoSQL(goDB), GitLab, Database, Mentality focused on agile methods.</p>
 <br/>
 <br/>  
 <div>
