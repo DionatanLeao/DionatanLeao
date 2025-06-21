@@ -5,7 +5,7 @@
 <br>- Unit Tests → JUnit, Mockito, MokK;
 <br>- Message Brokers → Apache Kafka, ActiveMQ, RabbitMQ;
 <br>- Cloud Computing → Azure and AWS;
-<br>- CI/CD → Red Hat OpenShift, SonarQube, Fortify, Kubernetes, Docker;
+<br>- CI/CD → Jenkins, GitHub Actions, Red Hat OpenShift, SonarQube, Fortify, Kubernetes, Docker;
 <br>- Web Services → Json and Soap;
 <br>- APIs Documentation → Swagger, OpenAPI;
 <br>- Relational Database → MySQL, SQL Server, PostgreSQL;
