@@ -10,6 +10,7 @@
 <br>- APIs Documentation → Swagger, OpenAPI;
 <br>- Relational Database → MySQL, SQL Server, PostgreSQL;
 <br>- NoSQL Database → MongoDB; <br>- Repositories → GitHub and GitLab;
+<br>- Observability → New Relic, Grafana, Kibana, Splunk, Dynatrace; 
 <br>- Agile methodologies → Scrum and Kamban;</p>
 <br/>
 <br/>  
