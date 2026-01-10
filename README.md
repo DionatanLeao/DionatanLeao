@@ -12,12 +12,6 @@
 <br>- NoSQL Database → MongoDB; <br>- Repositories → GitHub and GitLab;
 <br>- Observability → New Relic, Grafana, Kibana, Splunk, Dynatrace; 
 <br>- Agile methodologies → Scrum and Kamban;</p>
-<br/>
-<br/>  
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=DionatanLeao&show_icons=true&title_color=00a6c0&icon_color=00a6c0&text_color=9f9f9f&bg_color=151515" height="165" align="center"/>&ensp;&ensp;      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DionatanLeao&&langs_count=8&layout=compact&text_color=00a6c0&title_color=00a6c0&bg_color=151515&icon_color=00a6c0" alt="DionatanLeao"    height="165" align="center"/>
-</div>
-<br/>
 <h3>Techs</h3>
 <div>
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">&nbsp;
