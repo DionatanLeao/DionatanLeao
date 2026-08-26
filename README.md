@@ -1,17 +1,22 @@
 <h3>Hi, my name is Dionatan Leão,</h3>
 
-<p align="justify">Professional with experience in:
-<br>- Languages ​​→ Java, Kotlin, Spring Boot, Vert.x, Apache Camel, Spring Cloud Gateway;
-<br>- Unit Tests → JUnit, Mockito, MokK;
-<br>- Message Brokers → Apache Kafka, ActiveMQ, RabbitMQ;
-<br>- Cloud Computing → Azure and AWS;
-<br>- CI/CD → Jenkins, GitHub Actions, Red Hat OpenShift, SonarQube, Fortify, Kubernetes, Docker;
-<br>- Web Services → Json and Soap;
-<br>- APIs Documentation → Swagger, OpenAPI;
-<br>- Relational Database → MySQL, SQL Server, PostgreSQL;
-<br>- NoSQL Database → MongoDB; <br>- Repositories → GitHub and GitLab;
-<br>- Observability → New Relic, Grafana, Kibana, Splunk, Dynatrace; 
-<br>- Agile methodologies → Scrum and Kamban;</p>
+Professional with experience in backend application development and distributed systems architecture, working with Java/Kotlin and the Spring ecosystem, as well as modern cloud, messaging, and DevOps practices.
+
+<p align="justify">Technical Stack:
+<br>- Languages: Java and Kotlin;
+<br>- Frameworks: Spring Boot (API and microservices development);
+<br>- Automated Testing: JUnit, Mockito, and MockK;
+<br>- Messaging and Streaming: Apache Kafka, RabbitMQ, and ActiveMQ;
+<br>- Cloud Computing: AWS and Microsoft Azure;
+<br>- CI/CD and DevOps: Jenkins, GitHub Actions, OpenShift, Kubernetes, Docker, SonarQube, and Fortify;
+<br>- Web Services: REST (JSON) and SOAP;
+<br>- Relational Databases: MySQL, SQL Server, and PostgreSQL;
+<br>- NoSQL Database: MongoDB;
+<br>- Observability and Monitoring: New Relic, Grafana, Kibana, Splunk, and Dynatrace;
+<br>- API Documentation: Swagger and OpenAPI;
+<br>- Version Control and Repositories: GitHub and GitLab;
+<br>- Agile Methodologies: Scrum and Kanban;
+
 <h3>Techs</h3>
 <div>
   <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:4px">&nbsp;
